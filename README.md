@@ -15,30 +15,6 @@
 
 ---
 
-### 👋 关于我
-
-```yaml
-name: lstrive
-focus:
-  - AI Agent / MCP 工具链
-  - 开源项目挖掘与上手教程
-  - Python / Shell / PowerShell 自动化脚本
-motto: 能用脚本解决的，就不手动做
-blog: https://lstrive.online
-```
-
-- 🔭 正在折腾：让 AI Agent 接入更多真实工具，把重复工作交给脚本
-- ✍️ 在博客里分享：好用的开源项目、AI 实践、拿来就能用的小脚本
-- 💬 欢迎交流：AI 工具、自动化、效率提升相关的一切
-
-### 🛠️ 技术栈
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,bash,powershell,docker,linux,nginx,git,github,vscode&perline=7" alt="Tech stack" />
-  </a>
-</p>
-
 ### 📝 最新文章
 
 | 文章 | 标签 |
