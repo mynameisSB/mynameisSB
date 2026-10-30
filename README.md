@@ -26,16 +26,6 @@
 
 ### 📊 GitHub 数据
 
-<!-- 下面的统计图由 .github/workflows 里的 Actions 每天自动生成，首次需要手动运行一次 -->
-<p align="center">
-  <img width="100%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" />
-  <img width="49%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mynameisSB&hide_border=true&background=00000000&ring=6A5CFF&fire=1FB8E6&currStreakLabel=6A5CFF&sideLabels=6E6E73&currStreakNum=6E6E73&sideNums=6E6E73&dates=86868B&stroke=E8E8ED" alt="GitHub streak" />
 </p>
