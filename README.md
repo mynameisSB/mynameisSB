@@ -20,7 +20,6 @@
 | 文章 | 标签 |
 | --- | --- |
 | [REA：让 AI Agent 帮你逆向分析任何软件](https://lstrive.online/#/post/rea-reverse-engineer-anything) | `AI` `开源项目` `MCP` |
-| [30 行 Python：批量重命名文件的小脚本](https://lstrive.online/#/post/python-batch-rename) | `脚本` `Python` |
 
 <p align="right"><a href="https://lstrive.online">查看全部文章 →</a></p>
 
