@@ -1,0 +1,20 @@
+# Muse from Meta - Quantumult X remote filter rules
+# Updated: 2026-11-12
+# Usage: add this raw URL under [filter_remote] with force-policy=your-policy.
+# host-suffix matches the apex domain and its subdomains.
+
+# Muse app, API, and secure VM
+host-suffix, muse.ai, proxy
+host-suffix, metaaivm.com, proxy
+
+# Meta AI and generated assets
+host-suffix, meta.ai, proxy
+host-suffix, metaaiusercontent.com, proxy
+
+# Meta account, authentication, GraphQL, and content delivery
+# Note: the following rules also affect other Meta/Facebook services.
+host-suffix, meta.com, proxy
+host-suffix, facebook.com, proxy
+host-suffix, facebook.net, proxy
+host-suffix, fb.com, proxy
+host-suffix, fbcdn.net, proxy
